@@ -31,7 +31,7 @@ For more details, please find my CV [here].
 
 # 📝 Publications 
 
-- [[AAAI 2026]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) Time-Efficient Identifying Key Tag Distribution in Large-Scale RFID Systems. [[paper]](papers/wang2025time.pdf) [[bib]](papers/wang2025time.html)<br>
+- [[AAAI 2026]](https://aaai.org/conference/aaai/aaai-26/) Robust Causal Discovery under Imperfect Structural Constraints.<br>
 **Zidong Wang**, Xi Lin, Chuchao He, and Xiaoguang Gao*. <br> 
 In: AAAI Conference on Artificial Intelligence, in progress, 2026.
 
