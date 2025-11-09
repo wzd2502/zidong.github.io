@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm Zidong Wang. I am currently a Postdoctoral Researcher in the Optima Group, Department of Computer Science, at the City University of Hong Kong, supervised by Prof. Qingfu Zhang. Previously, I received my B.Eng. degree from the Honors College in 2018 and my Ph.D. degree from the School of Electronics and Information in 2024, both at Northwestern Polytechnical University. My Ph.D. studies were supervised by Prof. Xiaoguang Gao.
+Hello! I'm Zidong Wang. I am currently a Postdoctoral Researcher in the Optima Group(https://optima.cs.cityu.edu.hk/), Department of Computer Science, at the City University of Hong Kong, supervised by Prof. Qingfu Zhang. Previously, I received my B.Eng. degree from the Honors College in 2018 and my Ph.D. degree from the School of Electronics and Information in 2024, both at Northwestern Polytechnical University. My Ph.D. studies were supervised by Prof. Xiaoguang Gao.
 
 My research interests include causal discovery, causal representation learning, and their applications in performance evaluation under complex uncertainty. I have published over 10 papers in top-tier journals and conferences such as TKDE, AAAI, and IJCAI, serving as the first or corresponding author.
 
