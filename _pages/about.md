@@ -30,7 +30,7 @@ For more details, please find my CV and 简历.
 
 # 📝 Publications 
 
-- [[AAAI 2026]](https://aaai.org/conference/aaai/aaai-26/) Robust Causal Discovery under Imperfect Structural Constraints. [[paper]] [[code]](https://github.com/wzd2502/RoaDs)<br>
+- [[AAAI]](https://aaai.org/conference/aaai/aaai-26/) Robust Causal Discovery under Imperfect Structural Constraints. [[paper]] [[code]](https://github.com/wzd2502/RoaDs)<br>
 **Zidong Wang**, Xi Lin, Chuchao He, and Xiaoguang Gao*. <br> 
 In: Proceeding of the 40th Annual AAAI Conference on Artificial Intelligence, in progress, 2026. (CCF A)
 
