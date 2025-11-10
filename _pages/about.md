@@ -17,35 +17,74 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I'm Zidong Wang. I am currently a Postdoctoral Researcher in the Optima Group(https://optima.cs.cityu.edu.hk/), Department of Computer Science, at the City University of Hong Kong, supervised by Prof. Qingfu Zhang(https://www.cs.cityu.edu.hk/~qzhan7/index.html). Previously, I received my B.Eng. degree from the Honors College in 2018 and my Ph.D. degree from the School of Electronics and Information in 2024, both at Northwestern Polytechnical University. My Ph.D. studies were supervised by Prof. Xiaoguang Gao(https://dblp.org/pid/18/5633-1.html).
+Hello! I'm Zidong Wang. I am currently a Postdoctoral Researcher in the [Optima Group](https://optima.cs.cityu.edu.hk/), Department of Computer Science, at the City University of Hong Kong, supervised by [Prof. Qingfu Zhang](https://www.cs.cityu.edu.hk/~qzhan7/index.html). Previously, I received my B.Eng. degree from the Honors College in 2018 and my Ph.D. degree from the School of Electronics and Information in 2024, both at Northwestern Polytechnical University. My Ph.D. studies were supervised by [Prof. Xiaoguang Gao](https://dblp.org/pid/18/5633-1.html).
 
-My research interests include causal discovery, causal representation learning, and their applications in performance evaluation under complex uncertainty. I have published over 10 papers in top-tier journals and conferences such as TKDE, AAAI, and IJCAI, serving as the first or corresponding author.
+My research interests include causal discovery (also called Bayesian Network Structure Learning), causal representation learning, and their applications in performance evaluation under complex uncertainty. I have published over 10 papers in top-tier journals and conferences such as TKDE, AAAI, and IJCAI, serving as the first or corresponding author.
 
-For more details, please find my CV [here].
+For more details, please find my CV and 简历.
 
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 Our paper "Robust Causal Discovery under Imperfect Structural Constraints" has been accepted for AAAI-2026 (Oral).
-- *2025.10*: &nbsp;🎉🎉 Our paper "Feature Reduction Causal Network (FRCN): A Novel Approach for Analyzing Coupling Relationships in Radar System" has been accepted for KBS.
 - *2025.09*: &nbsp;🎉🎉 Our paper "Uncertain Priors for Graphical Causal Models: a Multi-objective Optimization Perspective" has been accepted in TKDE. 
 
 # 📝 Publications 
 
-- [[AAAI 2026]](https://aaai.org/conference/aaai/aaai-26/) Robust Causal Discovery under Imperfect Structural Constraints.<br>
+- [[AAAI 2026]](https://aaai.org/conference/aaai/aaai-26/) Robust Causal Discovery under Imperfect Structural Constraints. [[paper]] [[code]](https://github.com/wzd2502/RoaDs)<br>
 **Zidong Wang**, Xi Lin, Chuchao He, and Xiaoguang Gao*. <br> 
-In: AAAI Conference on Artificial Intelligence, in progress, 2026.
+In: Proceeding of the 40th Annual AAAI Conference on Artificial Intelligence, in progress, 2026. (CCF A)
+
+- [[TKDE]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) Uncertain Priors for Graphical Causal Models: a Multi-objective Optimization Perspective. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11159600&casa_token=1V9VevwsVjYAAAAA:B6mFRD22WHIsunDG-GEBzUR4ydKNUk-qHRt66iTbuvUdfX16CdBvTvy9G_FpVbTnWcrG32B84Q&tag=1) [[code]](https://github.com/wzd2502/UpCM)<br>
+**Zidong Wang**, Xiaoguang Gao and Qingfu Zhang*. <br> 
+In: IEEE Transactions on Knowledge and Data Engineering, in progress, 2025. (CCF A, CAS Q1)
+
+- [[IJCAI]](https://2025.ijcai.org/) LLM-enhanced Score Function Evolution for Causal Structure Learning. [[paper]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3512.pdf) [[code]](https://github.com/wzd2502/L-SFE)<br>
+**Zidong Wang**, Fei Liu, Qi Feng, Xiaoguang Gao and Qingfu Zhang*. <br> 
+In: Proceeding of the 34th International Joint Conference on Artificial Intelligence, Montreal, 16th – 22nd August, 2025. (CCF A)
+
+- [[Neurocomputing]](https://www.sciencedirect.com/journal/neurocomputing) Incorporating structural constraints into continuous optimization for causal discovery. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224006738) [[code]](https://github.com/wzd2502/Con_Notears)<br>
+**Zidong Wang**, Xiaoguang Gao*, Xiaohan Liu, Xinxin Ru, Qingfu Zhang. <br> 
+In: Neurocomputing 595: 127902, 2024. (CCF C, CAS Q2)
+
+- [[KBS]](https://www.sciencedirect.com/journal/knowledge-based-systems) Determining the direction of the local search in topological ordering space for Bayesian network structure learning. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121008285)<br>
+**Zidong Wang**, Xiaoguang Gao*, Xiangyuan Tan, Xiaohan Liu. <br> 
+In: Knowledge-Based Systems 211: 106515, 2021. (CCF C, CAS Q1)
+
+- [[Neurocomputing]](https://www.sciencedirect.com/journal/neurocomputing) Learning Bayesian networks using A* search with ancestral constraints. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221005968) <br>
+**Zidong Wang**, Xiaoguang Gao*, Xiangyuan Tan, Xiaohan Liu. <br> 
+In: Neurocomputing 595: 127902, 2024. (CCF C, CAS Q2)
+
+- [[KBS]](https://www.sciencedirect.com/journal/knowledge-based-systems) Learning Bayesian networks based on order graph with ancestral constraints. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120306444)<br>
+**Zidong Wang**, Xiaoguang Gao*, Yu Yang, Xiangyuan Tan, Daqing Chen. <br> 
+In: Knowledge-Based Systems 211: 106515, 2021. (CCF C, CAS Q1)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09* Award for CICC (Chinese Institute of Command and Control) Doctoral Dissertation Incentive Program. 
+- *2022.09* NWPU Second Class Scholarship.
+- *2022.09* NWPU Outstanding Graduate Student.
+- *2022.09* AVIC Second Class Special Scholarship.
+- *2021.09* National Scholarship for Doctoral Candidates.
+- *2018.09* NWPU Honors College Scholarship.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2024.04*, Ph.D. in Control Science and Engineering, Northwestern Polytechnical University (NWPU) 
+- *2014.09 - 2018.06*, B.Sc. in Systems Engineering, Northwestern Polytechnical University (NWPU)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Patents and competitions
+- A method for analyzing enemy/own target recognition effectiveness based on expert experience and Bayesian networks. [[Patent]] (https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTA4MDcxNjU0MjYSKVpMX0NOMjAyMjEwMjE1MDY2LjdfQ04xMTQ3MjI4OTlCXzIwMjUwNTI3Gghwd25vZTk1NQ%3D%3D) <br>
+Xiaoguang Gao, Ruiguo Zhong, Qianglong Wang, Xiangyuan Tan and **Zidong Wang**.
+China Invention Patent: CN114722899B (Granted: May 27, 2025).
+- Third Prize, System Innovation Competition, Mission Planning Application Maker Contest (Student Rank: 1).
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# ✨ Academic Service
+**Guest Editor**
+- Special Issue ["Bayesian Networks and Causal Discovery"](https://www.mdpi.com/journal/entropy/special_issues/E3CIFLQQ37) in [Entropy](https://www.mdpi.com/journal/entropy).
+
+**Reviewer for Journals:**
+- Knowledge-based Systems
+- Journal of approximate reasoning
+- Neurocomputing
+- Entropy
+
+# 💻 Experiences
+- *2014.08 - now*, Postdoctoral Researcher, Department of Computer Science, City University of Hong Kong.
