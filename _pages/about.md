@@ -21,7 +21,7 @@ Hello! I'm Zidong Wang. I am currently a Postdoctoral Researcher in the [Optima 
 
 My research interests include causal discovery (also called Bayesian Network Structure Learning), causal representation learning, and their applications in performance evaluation under complex uncertainty. I have published over 10 papers in top-tier journals and conferences such as TKDE, AAAI, and IJCAI, serving as the first or corresponding author.
 
-For more details, please find my CV and 简历.
+For more details, please find my <a href='papers/cv.pdf'>CV</a> & <a href='papers/简历.pdf'>中文简历</a>.
 
 
 # 🔥 News
