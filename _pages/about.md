@@ -70,7 +70,7 @@ In: Knowledge-Based Systems 211: 106515, 2021. (CCF C, CAS Q1)
 - *2018.09 - 2024.04*, Ph.D. in Control Science and Engineering, Northwestern Polytechnical University (NWPU) 
 - *2014.09 - 2018.06*, B.Sc. in Systems Engineering, Northwestern Polytechnical University (NWPU)
 
-# 💬 Patents and competitions
+# 💬 Patents and Competitions
 - A method for analyzing enemy/own target recognition effectiveness based on expert experience and Bayesian networks. [[Patent]](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTA4MDcxNjU0MjYSKVpMX0NOMjAyMjEwMjE1MDY2LjdfQ04xMTQ3MjI4OTlCXzIwMjUwNTI3Gghwd25vZTk1NQ%3D%3D) <br>
 Xiaoguang Gao, Ruiguo Zhong, Qianglong Wang, Xiangyuan Tan and **Zidong Wang**.
 China Invention Patent: CN114722899B (Granted: May 27, 2025).
