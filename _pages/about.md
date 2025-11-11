@@ -52,7 +52,7 @@ In: Knowledge-Based Systems 211: 106515, 2021. (CCF C, CAS Q1)
 
 - [[Neurocomputing]](https://www.sciencedirect.com/journal/neurocomputing) Learning Bayesian networks using A* search with ancestral constraints. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221005968) <br>
 **Zidong Wang**, Xiaoguang Gao*, Xiangyuan Tan, Xiaohan Liu. <br> 
-In: Neurocomputing 595: 127902, 2024. (CCF C, CAS Q2)
+In: Neurocomputing 595: 127902, 2021. (CCF C, CAS Q2)
 
 - [[KBS]](https://www.sciencedirect.com/journal/knowledge-based-systems) Learning Bayesian networks based on order graph with ancestral constraints. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120306444)<br>
 **Zidong Wang**, Xiaoguang Gao*, Yu Yang, Xiangyuan Tan, Daqing Chen. <br> 
@@ -87,4 +87,4 @@ China Invention Patent: CN114722899B (Granted: May 27, 2025).
 - Entropy
 
 # 💻 Experiences
-- *2014.08 - now*, Postdoctoral Researcher, Department of Computer Science, City University of Hong Kong.
+- *2024.08 - now*, Postdoctoral Researcher, Department of Computer Science, City University of Hong Kong.
